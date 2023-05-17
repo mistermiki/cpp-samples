@@ -1,0 +1,9 @@
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/Experimental.dir
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/Nightly.dir
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/Continuous.dir
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/references.dir
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/PACKAGE.dir
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/w85wos/Documents/Cpp samples/cpp-samples/build/CMakeFiles/ZERO_CHECK.dir
